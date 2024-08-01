@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|c:\\users\\smell\\proton drive\\melbournemarsden\\my files\\vscodeprojects\\cprg211 - oop2\\oop2_project3\\assignment3\\utility\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\utility\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|c:\\users\\smell\\proton drive\\melbournemarsden\\my files\\vscodeprojects\\cprg211 - oop2\\oop2_project3\\assignment3\\utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Utility\\Node.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Utility\\Node.cs",
+              "ToolTip": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Utility\\Node.cs",
+              "RelativeToolTip": "Assignment3\\Utility\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:34:47.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SLL.cs",
+              "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Utility\\SLL.cs",
+              "RelativeDocumentMoniker": "Assignment3\\Utility\\SLL.cs",
+              "ToolTip": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Utility\\SLL.cs",
+              "RelativeToolTip": "Assignment3\\Utility\\SLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T21:31:35.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

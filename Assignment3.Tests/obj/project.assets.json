@@ -3973,23 +3973,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Owner\\.nuget\\packages\\": {},
+    "C:\\Users\\Smell\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Desktop\\Material\\CPRG-211 OOP2\\Unit 8\\Assignment\\Assignment3Skeleton\\Assignment3\\Assignment3.Tests\\Assignment3.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\Assignment3.Tests.csproj",
       "projectName": "Assignment3.Tests",
-      "projectPath": "C:\\Users\\Owner\\Desktop\\Material\\CPRG-211 OOP2\\Unit 8\\Assignment\\Assignment3Skeleton\\Assignment3\\Assignment3.Tests\\Assignment3.Tests.csproj",
-      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Desktop\\Material\\CPRG-211 OOP2\\Unit 8\\Assignment\\Assignment3Skeleton\\Assignment3\\Assignment3.Tests\\obj\\",
+      "projectPath": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\Assignment3.Tests.csproj",
+      "packagesPath": "C:\\Users\\Smell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Smell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4005,8 +4005,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Owner\\Desktop\\Material\\CPRG-211 OOP2\\Unit 8\\Assignment\\Assignment3Skeleton\\Assignment3\\Assignment3\\Assignment3.csproj": {
-              "projectPath": "C:\\Users\\Owner\\Desktop\\Material\\CPRG-211 OOP2\\Unit 8\\Assignment\\Assignment3Skeleton\\Assignment3\\Assignment3\\Assignment3.csproj"
+            "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Assignment3.csproj": {
+              "projectPath": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Assignment3.csproj"
             }
           }
         }
@@ -4015,6 +4015,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4053,12 +4058,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.32, 6.0.32]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.32, 6.0.32]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.32, 6.0.32]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
