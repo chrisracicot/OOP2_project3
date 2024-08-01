@@ -48,5 +48,72 @@ namespace Assignment3.Tests
 			list.AddFirst(newUser);
 			Assert.AreEqual(newUser, list.GetValue(0));
 		}
+
+		[Test]
+		public void TestAppend()
+		{
+			User newUser = new User(529, "Crabb", "Crabb@mehdi.com", "cran[aswp");
+			list.AddLast(newUser);
+			Assert.AreEqual(newUser, list.GetValue(list.Count() - 1));
+		}
+
+		[Test]
+		public void TestInsert()
+		{
+			User newUser = new User(529, "Crabb", "Crabb@mehdi.com", "cran[aswp");
+			list.Add(newUser,3);
+			Assert.AreEqual(newUser, list.GetValue(3));
+		}
+
+		[Test]
+		public void TestReplace()
+		{
+			User newUser = new User(529, "Crabb", "Crabb@mehdi.com", "cran[aswp");
+			list.Replace(newUser, 3);
+			Assert.AreEqual(newUser, list.GetValue(3));
+		}
+
+		[Test]
+		public void TestRemoveFirst()
+		{
+			User secondUser = list.GetValue(1);
+			list.RemoveFirst();
+			Assert.AreEqual(secondUser, list.GetValue(0));
+		}
+
+		[Test]
+		public void TestRemoveLast()
+		{
+			User secondLastUser = list.GetValue(list.Count() - 2);
+			list.RemoveLast();
+			Assert.AreEqual(secondLastUser, list.GetValue(list.Count() - 1));
+		}
+
+		[Test]
+		public void TestRemoveMiddle()
+		{
+			User fourthUser = list.GetValue(3);
+			list.Remove(2);
+			Assert.AreEqual(fourthUser, list.GetValue(2));
+		}
+
+		[Test]
+		public void TestRetrieve()
+		{
+			User newUser = new User(529, "Crabb", "Crabb@mehdi.com", "cran[aswp");
+			list.AddFirst(newUser);
+			Assert.AreEqual(list.GetValue(0), newUser);
+		}
+
+		[Test]
+		public void TestReversal()
+		{
+			User original2ndUser = list.GetValue(1);
+			User original7thUser = list.GetValue(6);
+			((SLL)list).Reverse();
+			Assert.AreEqual(original2ndUser, list.GetValue(6));
+			Assert.AreEqual(original7thUser, list.GetValue(1));
+		}
+
 	}
 }
