@@ -32,7 +32,7 @@ namespace Assignment3.Tests
         [Test]
         public void TestSerialization()
         {
-            SerializationHelper.SerializeUsers(users, testFileName);
+            SerializationHelper.SerializeUsers((SLL)users, testFileName);
             Assert.IsTrue(File.Exists(testFileName));
         }
 
@@ -42,7 +42,7 @@ namespace Assignment3.Tests
         [Test]
         public void TestDeSerialization()
         {
-            SerializationHelper.SerializeUsers(users, testFileName);
+            SerializationHelper.SerializeUsers((SLL)users, testFileName);
             ILinkedListADT deserializedUsers = SerializationHelper.DeserializeUsers(testFileName);
             
             Assert.IsTrue(users.Count() == deserializedUsers.Count());

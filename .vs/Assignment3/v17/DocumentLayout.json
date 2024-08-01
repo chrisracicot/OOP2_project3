@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B57A8620-B215-4F27-8B18-3EA02B0A2575}|Assignment3.Tests\\Assignment3.Tests.csproj|c:\\users\\smell\\proton drive\\melbournemarsden\\my files\\vscodeprojects\\cprg211 - oop2\\oop2_project3\\assignment3.tests\\linkedlisttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B57A8620-B215-4F27-8B18-3EA02B0A2575}|Assignment3.Tests\\Assignment3.Tests.csproj|solutionrelative:assignment3.tests\\linkedlisttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\assignment3\\utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B57A8620-B215-4F27-8B18-3EA02B0A2575}|Assignment3.Tests\\Assignment3.Tests.csproj|c:\\users\\smell\\proton drive\\melbournemarsden\\my files\\vscodeprojects\\cprg211 - oop2\\oop2_project3\\assignment3.tests\\serializationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B57A8620-B215-4F27-8B18-3EA02B0A2575}|Assignment3.Tests\\Assignment3.Tests.csproj|solutionrelative:assignment3.tests\\serializationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B57A8620-B215-4F27-8B18-3EA02B0A2575}|Assignment3.Tests\\Assignment3.Tests.csproj|c:\\users\\smell\\proton drive\\melbournemarsden\\my files\\vscodeprojects\\cprg211 - oop2\\oop2_project3\\assignment3.tests\\linkedlisttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57A8620-B215-4F27-8B18-3EA02B0A2575}|Assignment3.Tests\\Assignment3.Tests.csproj|solutionrelative:assignment3.tests\\linkedlisttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B57A8620-B215-4F27-8B18-3EA02B0A2575}|Assignment3.Tests\\Assignment3.Tests.csproj|c:\\users\\smell\\proton drive\\melbournemarsden\\my files\\vscodeprojects\\cprg211 - oop2\\oop2_project3\\assignment3.tests\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B57A8620-B215-4F27-8B18-3EA02B0A2575}|Assignment3.Tests\\Assignment3.Tests.csproj|solutionrelative:assignment3.tests\\serializationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|c:\\users\\smell\\proton drive\\melbournemarsden\\my files\\vscodeprojects\\cprg211 - oop2\\oop2_project3\\assignment3\\problemdomain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\problemdomain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\assignment3\\utility\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\utility\\sll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\assignment3\\utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}|Assignment3\\Assignment3.csproj|solutionrelative:assignment3\\utility\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,33 +42,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LinkedListTest.cs",
               "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\LinkedListTest.cs",
               "RelativeDocumentMoniker": "Assignment3.Tests\\LinkedListTest.cs",
               "ToolTip": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\LinkedListTest.cs",
               "RelativeToolTip": "Assignment3.Tests\\LinkedListTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T22:13:10.964Z",
+              "WhenOpened": "2024-08-01T23:10:54.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\ProblemDomain\\User.cs",
+              "RelativeDocumentMoniker": "Assignment3\\ProblemDomain\\User.cs",
+              "ToolTip": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\ProblemDomain\\User.cs",
+              "RelativeToolTip": "Assignment3\\ProblemDomain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:55:24.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SerializationTests.cs",
-              "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\SerializationTests.cs",
-              "RelativeDocumentMoniker": "Assignment3.Tests\\SerializationTests.cs",
-              "ToolTip": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\SerializationTests.cs",
-              "RelativeToolTip": "Assignment3.Tests\\SerializationTests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Title": "SerializationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\SerializationHelper.cs",
+              "RelativeDocumentMoniker": "Assignment3.Tests\\SerializationHelper.cs",
+              "ToolTip": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\SerializationHelper.cs",
+              "RelativeToolTip": "Assignment3.Tests\\SerializationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T22:07:43.736Z",
+              "WhenOpened": "2024-08-01T22:47:15.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Node.cs",
               "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Utility\\Node.cs",
               "RelativeDocumentMoniker": "Assignment3\\Utility\\Node.cs",
@@ -68,20 +89,38 @@
               "RelativeToolTip": "Assignment3\\Utility\\Node.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T21:34:47.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T21:34:47.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SLL.cs",
               "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Utility\\SLL.cs",
               "RelativeDocumentMoniker": "Assignment3\\Utility\\SLL.cs",
               "ToolTip": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3\\Utility\\SLL.cs",
               "RelativeToolTip": "Assignment3\\Utility\\SLL.cs",
-              "ViewState": "AQIAALcAAAAAAAAAAAAuwBQAAAADAAAA",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAmwOYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T21:31:35.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerializationTests.cs",
+              "DocumentMoniker": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\SerializationTests.cs",
+              "RelativeDocumentMoniker": "Assignment3.Tests\\SerializationTests.cs",
+              "ToolTip": "C:\\Users\\Smell\\Proton Drive\\melbournemarsden\\My files\\VSCodeProjects\\CPRG211 - OOP2\\OOP2_project3\\Assignment3.Tests\\SerializationTests.cs",
+              "RelativeToolTip": "Assignment3.Tests\\SerializationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T22:07:43.736Z",
               "EditorCaption": ""
             }
           ]
