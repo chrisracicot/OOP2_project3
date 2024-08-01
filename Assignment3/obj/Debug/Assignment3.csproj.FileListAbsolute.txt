@@ -1,0 +1,7 @@
+C:\Users\Smell\Proton Drive\melbournemarsden\My files\VSCodeProjects\CPRG211 - OOP2\OOP2_project3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\Smell\Proton Drive\melbournemarsden\My files\VSCodeProjects\CPRG211 - OOP2\OOP2_project3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\Smell\Proton Drive\melbournemarsden\My files\VSCodeProjects\CPRG211 - OOP2\OOP2_project3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\Smell\Proton Drive\melbournemarsden\My files\VSCodeProjects\CPRG211 - OOP2\OOP2_project3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\Smell\Proton Drive\melbournemarsden\My files\VSCodeProjects\CPRG211 - OOP2\OOP2_project3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Smell\Proton Drive\melbournemarsden\My files\VSCodeProjects\CPRG211 - OOP2\OOP2_project3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\Smell\Proton Drive\melbournemarsden\My files\VSCodeProjects\CPRG211 - OOP2\OOP2_project3\Assignment3\obj\Debug\Assignment3.pdb

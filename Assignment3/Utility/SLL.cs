@@ -12,6 +12,13 @@ namespace Assignment3.Utility
 		public Node Head { get; set; }
 		public Node Tail { get; set; }
 		public int Counter { get; set; }
+
+		public SLL()
+		{
+			Head = null;
+			Tail = null;
+			Counter = 0;
+		}
 		public bool IsEmpty()
 		{
 			if (Head == null)
@@ -199,6 +206,24 @@ namespace Assignment3.Utility
 				}
 			}
 			return false;
+		}
+
+		public void Reverse()
+		{
+			Node previous = null;
+			Node current = Head;
+			Node next = null;
+			Tail = Head;
+
+			while (current != null)
+			{
+				next = current.Next;
+				current.Next = previous;
+				previous = current;
+				current = next;
+			}
+
+			Head = previous;
 		}
 
 	}
